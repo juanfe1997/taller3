@@ -1,0 +1,20 @@
+body{
+	background: yellow;
+	border-radius: 18px;
+	margin: 180px auto;
+	   	    width: 350px;
+	   	    height: 250px;
+	   	    background: white;
+}
+header, article, aside, footer, nav{
+	background: green;
+}
+body{
+    text-align: center;
+}
+nav{
+	text-align: left;
+}
+aside{
+	text-align: right;
+}
